@@ -6,6 +6,11 @@ h1 {
   color: chartreuse;
 }
 
+p {
+  color: antiquewhite;
+  font-size: large;
+}
+
 body {
   background-color: indianred;
 }
